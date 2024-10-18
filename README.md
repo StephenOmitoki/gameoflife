@@ -33,6 +33,9 @@ C++ compiler
 Quit the Program:
 To quit at any time, press q.
 
+Limitations:
+I was unable to implement the ncurses library and make it work in time to meet up with the deadline so i submitted the version without the ncurses that works.
+
 Files:
 main.cpp: Contains the main logic of the program, user interaction, and game loop.
 gameoflife.cpp: Handles the game logic, grid updates, and neighbor counting.
