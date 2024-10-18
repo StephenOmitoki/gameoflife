@@ -1,5 +1,7 @@
 # gameoflife
 
+Stephen Omitoki
+
 Overview:
 This program simulates the Game of Life, a grid-based game where cells live or die based on the number of live neighbors they have. The game follows simple rules to determine whether each cell in the grid lives, dies, or becomes alive in the next generation.
 
